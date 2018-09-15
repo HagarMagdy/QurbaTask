@@ -1,0 +1,6 @@
+framework module Pods_Qurba_Task {
+  umbrella header "Pods-Qurba Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
